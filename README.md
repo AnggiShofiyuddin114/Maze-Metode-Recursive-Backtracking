@@ -1,8 +1,7 @@
 # Maze-Metode-Recursive-Backtracking
 &emsp;&emsp;Program ini bertujuan untuk menciptakan *maze* secara otomatis menggunakan algoritma *Recursive Backtracking*. *Maze* yang dihasilkan akan memiliki struktur acak yang menarik dan dapat digunakan dalam berbagai aplikasi, seperti  permainan, simulasi, atau eksperimen lainnya.<br/><br/>
 ***Environment***<br/>
-Program ini dijalankan menggunakan:<br/>
-Bahasa Python, dengan *library*:<br/>
+Program ini dijalankan menggunakan bahasa Python, dengan *library*:<br/>
 &emsp;&emsp;•	Pygame<br/>
 &emsp;&emsp;•	Random<br/><br/>
 **Screenshot Hasil Program**<br/>
